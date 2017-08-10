@@ -19,6 +19,7 @@ public:
     virtual void Enter();
 private:
     MapSite* _sides[4];
+protected:
     int _roomNumber;
 };
 

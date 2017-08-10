@@ -11,13 +11,13 @@
 
 class Door : public MapSite {
 public:
-    Door(Room* = 0, Room* = 0);
+    explicit Door(Room* = 0, Room* = 0);
 
     virtual void Enter();
 
     Room* OtherSideRoom(Room*);
 
-private:
+protected:
     Room* _room1;
     Room* _room2;
     bool _isOpen;

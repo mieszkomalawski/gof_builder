@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GangOfFourBuilderExamples"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GangOfFourBuilderExamples">
+				<Option output="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/GangOfFourBuilderExamples" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/Makefile&quot;  VERBOSE=1 GangOfFourBuilderExamples"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GangOfFourBuilderExamples/fast">
+				<Option output="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/GangOfFourBuilderExamples" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/Makefile&quot;  VERBOSE=1 GangOfFourBuilderExamples/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/BombedDoor.cpp">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/BombedDoor.h">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/BombedRoom.cpp">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/BombedRoom.h">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/Builder/MazeBuilder.cpp">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/Builder/MazeBuilder.h">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/Builder/StandardMazeBuilder.cpp">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/Builder/StandardMazeBuilder.h">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/Door.cpp">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/Door.h">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/Factory/BombedMazeFactory.cpp">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/Factory/BombedMazeFactory.h">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/Factory/MazeFactory.cpp">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/Factory/MazeFactory.h">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/FactoryMazeGame.cpp">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/FactoryMazeGame.h">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/MapSite.cpp">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/MapSite.h">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/Maze.cpp">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/Maze.h">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/MazeGame.cpp">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/MazeGame.h">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/Room.cpp">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/Room.h">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/Wall.cpp">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/Maze/Wall.h">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/main.cpp">
+			<Option target="GangOfFourBuilderExamples"/>
+		</Unit>
+		<Unit filename="/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

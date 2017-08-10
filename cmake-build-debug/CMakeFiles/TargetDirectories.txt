@@ -1,0 +1,3 @@
+/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mmalawski/CLionProjects/GangOfFourBuilderExamples/cmake-build-debug/CMakeFiles/GangOfFourBuilderExamples.dir

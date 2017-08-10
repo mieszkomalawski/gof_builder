@@ -10,6 +10,7 @@
 
 class MazeBuilder {
 public:
+    // w pelni virtualne metody wymuszaja implementacja w pod klasach
     virtual void BuildMaze() = 0;
     virtual void BuildRoom(int room) = 0;
     virtual void BuildDoor(int roomFrom, int roomTo) = 0;
